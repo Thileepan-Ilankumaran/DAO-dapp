@@ -26,3 +26,5 @@
 
 ### 5. Run 1st script
 `$ truffle exec .\scripts\1_create_proposal.js`
+
+- Refered from [DApp University](https://www.youtube.com/watch?v=LI4Ns77Upug&t=1088s) YouTube Channel
